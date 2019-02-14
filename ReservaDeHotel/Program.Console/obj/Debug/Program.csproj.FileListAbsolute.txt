@@ -1,0 +1,8 @@
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\Program.Console\bin\Debug\Program.Console.exe.config
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\Program.Console\bin\Debug\Program.Console.exe
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\Program.Console\bin\Debug\Program.Console.pdb
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\Program.Console\bin\Debug\HotelReservado.dll
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\Program.Console\bin\Debug\HotelReservado.pdb
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\Program.Console\obj\Debug\Program.Console.exe
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\Program.Console\obj\Debug\Program.Console.pdb
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\Program.Console\obj\Debug\Program.csprojResolveAssemblyReference.cache

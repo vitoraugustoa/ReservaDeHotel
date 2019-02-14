@@ -1,0 +1,8 @@
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\ReservaDeHotel.Console.Tests\bin\Debug\ReservaDeHotel.Console.Tests.dll
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\ReservaDeHotel.Console.Tests\bin\Debug\ReservaDeHotel.Console.Tests.pdb
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\ReservaDeHotel.Console.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\ReservaDeHotel.Console.Tests\bin\Debug\ReservaDeHotel.Console.exe
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\ReservaDeHotel.Console.Tests\bin\Debug\ReservaDeHotel.Console.pdb
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\ReservaDeHotel.Console.Tests\obj\Debug\ReservaDeHotel.Console.Tests.csprojResolveAssemblyReference.cache
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\ReservaDeHotel.Console.Tests\obj\Debug\ReservaDeHotel.Console.Tests.dll
+C:\Users\VITOR\Documents\Progamação Web\CodigoTW\ReservaDeHotel\ReservaDeHotel.Console.Tests\obj\Debug\ReservaDeHotel.Console.Tests.pdb
